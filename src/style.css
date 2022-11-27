@@ -102,3 +102,49 @@ header{
 .places--line{
     width: 60%;
 }
+
+@media screen and (max-width:1200px) {
+    .places{
+        margin-top: 5rem;
+        margin-bottom: 4rem;
+    
+    }
+
+    .places--photo{
+        margin-right: 1.8rem;
+        
+        width: 10rem;
+        height: 15rem;    
+    }
+
+
+    .places--logo{
+        height: 0.9rem;
+        margin-right: 0.3rem;
+    }
+
+    .places--location{
+        font-size: 0.8rem;
+
+    }
+
+    .places--maplink{
+        margin-left: 0.6rem; 
+        font-size: 0.7rem;
+
+    }
+
+    .places--title{
+        font-size: 1.4rem;
+    }
+
+    .places--dates{
+        font-size: 0.8rem;
+    }
+
+    .places--description{
+        font-size: 0.8rem;
+        width: 25rem;
+    }
+
+}
