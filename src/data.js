@@ -2,7 +2,7 @@ const data = [
     {
         id: 1,
         title: 'Stresa',
-        country: 'Italy',
+        country: 'ITALY',
         mapLink: 'https://goo.gl/maps/a7Krv2nRvRs6zsGF9',
         startDate: '26 Aug 2022',
         endDate: '28 Aug 2022',
@@ -12,7 +12,7 @@ const data = [
     {
         id: 2,
         title: 'Cinque Terre',
-        country: 'Italy',
+        country: 'ITALY',
         mapLink: 'https://goo.gl/maps/4Pj4ukZTAtLAnPRZ8',
         startDate: '22 Aug 2022',
         endDate: '26 Aug 2022',
@@ -22,7 +22,7 @@ const data = [
     {
         id: 3,
         title: 'Milano',
-        country: 'Italy',
+        country: 'ITALY',
         mapLink: 'https://goo.gl/maps/mN238voDKxy5FDEPA',
         startDate: '21 Aug 2022',
         endDate: '22 Aug 2022',
@@ -32,7 +32,7 @@ const data = [
     {
         id: 4,
         title: 'Vercorin',
-        country: 'Switzerland',
+        country: 'SWITZERLAND',
         mapLink: 'https://goo.gl/maps/EtxZ6dX4B5rEDQfH9',
         startDate: '14 Feb 2022',
         endDate: '18 Feb 2022',
@@ -42,12 +42,12 @@ const data = [
     {
         id: 5,
         title: 'Neuchâtel',
-        country: 'Switzerland',
+        country: 'SWITZERLAND',
         mapLink: 'https://goo.gl/maps/iEv5rXYd3UT7vicy9',
         startDate: '31 Oct 2021',
         endDate: '31 Oct 2021',
         description: 'The city of Neuchâtel, the French-speaking capital of the Swiss canton Neuchâtel, lies on the northern shore of Lake Neuchâtel.',
-        image: "neuchtael.jpg"
+        image: "neuchatel.jpg"
     },
 
 ]
