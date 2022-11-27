@@ -1,11 +1,18 @@
 import React from "react";
 
 
-function Places(){
+
+function Places(props){
+
     return(
-        <main>
-            <h1>Places</h1>
-        </main>
+        <div className="places">
+            <img src={`../assets/${props.image}`} alt="l'endroit" />
+            <h3>{props.country}</h3>
+            <a href={props.mapLink} target="_blank" rel='noreferrer'>link</a>
+            <h1>{props.title}</h1>
+            <p>{props.startDate} - {props.endDate}</p>
+            <p>{props.description}</p>
+        </div>
     )
 }
 
