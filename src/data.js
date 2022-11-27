@@ -16,7 +16,7 @@ const data = [
         mapLink: 'https://goo.gl/maps/4Pj4ukZTAtLAnPRZ8',
         startDate: '22 Aug 2022',
         endDate: '26 Aug 2022',
-        description: "Cinque Terre is a string of centuries-old seaside villages on the rugged Italian Riviera coastline. In each of the 5 towns, colorful houses and vineyards cling to steep terraces, harbors are filled with fishing boats and trattorias turn out seafood specialties along with the Liguria region's famous sauce, pesto",
+        description: "Cinque Terre is a string of centuries-old seaside villages on the rugged Italian Riviera coastline. In each of the 5 towns, colorful houses and vineyards cling to steep terraces.",
         image: "cinqueTerre.jpg"
     },
     {
@@ -26,7 +26,7 @@ const data = [
         mapLink: 'https://goo.gl/maps/mN238voDKxy5FDEPA',
         startDate: '21 Aug 2022',
         endDate: '22 Aug 2022',
-        description: "Milan, a metropolis in Italy's northern Lombardy region, is a global capital of fashion and design. Home to the national stock exchange, it's a financial hub also known for its high-end restaurants and shops. The Gothic Duomo di Milano cathedral and the Santa Maria delle Grazie convent, housing Leonardo da Vinci's mural “The Last Supper,” testify to centuries of art and culture.",
+        description: "Milan, a metropolis in Italy's northern Lombardy region, is a global capital of fashion and design. Home to the national stock exchange, it's a financial hub also known for its high-end restaurants and shops.",
         image: "milan.jpg"
     },
     {

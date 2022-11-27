@@ -19,21 +19,20 @@ header{
     margin-right: auto;
 
     font-weight: 500;
-    font-size: 1.5rem;
+    font-size: 2vw;
 }
 
 .header--logo{
     margin-right: 1%;
     margin-left:auto;
 
-    height: 2rem;
+    height: 2vw;
 }
 
 /*----------------Places-----------------------*/
 .places{
     margin-top: 5%;
     margin-bottom: 5%;
-
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -45,7 +44,8 @@ header{
     margin-right: 3%;
     margin-left: auto;  /*pour aligner au centre*/
     
-    width: 20%;
+    width: 25%;
+
 
     border: solid 0.15rem #2F783A;
     border-radius: 6%;
@@ -59,7 +59,7 @@ header{
 }
 
 .places--logo{
-    height: 1.2rem;
+    height: 1.3vw;
     margin-right: 2%;
 }
 
@@ -67,14 +67,14 @@ header{
 
     font-weight: normal;
     text-transform: uppercase;
-    font-size: 1.2rem;
+    font-size: 1.3vw;
 
 }
 
 .places--maplink{
     margin-left: 3%;
     
-    font-size: 1rem;
+    font-size: 1.1vw;
     color: #918E9B;
     text-decoration: none;
 }
@@ -86,17 +86,18 @@ header{
 
 .places--title{
     text-transform: uppercase;
-    font-size: 1.8rem;
+    font-size: 2vw;
 }
 
 .places--dates{
     font-weight: 600;
-    font-size: 0.9rem;
+    font-size: 1vw;
 }
 
 .places--description{
-    font-size: 1.1rem;
+    font-size: 1.2vw;
 }
+
 
 
 
