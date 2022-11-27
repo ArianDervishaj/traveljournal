@@ -50,6 +50,7 @@ const data = [
         image: "neuchatel.jpg"
     },
 
+
 ]
 
 export default data;
