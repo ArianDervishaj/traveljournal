@@ -60,14 +60,12 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/ArianDervishaj/traveljournal.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. CD in the projet in your terminal and run 
+
+2. cd in the projet in your terminal and run 
    ```sh
    npm start
    ```
+3. Open the projet in your localhost
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
