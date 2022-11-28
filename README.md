@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://user-images.githubusercontent.com/65165041/204176257-354eca47-0c9a-4243-8bd2-48f4fec210f2.png)
+[![Product Name Screen Shot][product-screenshot]] : (https://user-images.githubusercontent.com/65165041/204176257-354eca47-0c9a-4243-8bd2-48f4fec210f2.png)
 
 I created this react app to train my react developpement skill.
 This react app takes data from a .js file and renders all the data in a single web page.
