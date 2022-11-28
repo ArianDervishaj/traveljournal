@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Travel_Journal Screen Shot][product-screenshot]] : 
+![Travel_Journal Screen Shot][product-screenshot]  
 
 I created this react app to train my react developpement skill.
 This react app takes data from a .js file and renders all the data in a single web page.
