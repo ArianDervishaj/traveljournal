@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]] : (https://user-images.githubusercontent.com/65165041/204176257-354eca47-0c9a-4243-8bd2-48f4fec210f2.png)
+[![Travel_Journal Screen Shot][product-screenshot]] : 
 
 I created this react app to train my react developpement skill.
 This react app takes data from a .js file and renders all the data in a single web page.
@@ -87,5 +87,5 @@ Project Link: [https://github.com/ArianDervishaj/traveljournal](https://github.c
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-
+[product-screenshot]: https://user-images.githubusercontent.com/65165041/204176257-354eca47-0c9a-4243-8bd2-48f4fec210f2.png
 
